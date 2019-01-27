@@ -189,8 +189,8 @@ function showOutput(id, name) {
 
 <div class='heading'>
 <h1>接口自动化测试报告</h1>
-<p class='attribute'><strong>Start Time:</strong> 2019-01-15 09:28:32</p>
-<p class='attribute'><strong>Duration:</strong> 0:00:00.788000</p>
+<p class='attribute'><strong>Start Time:</strong> 2019-01-24 14:02:38</p>
+<p class='attribute'><strong>Duration:</strong> 0:00:01.049060</p>
 <p class='attribute'><strong>Status:</strong> Pass 1 Error 1</p>
 
 <p class='description'>接口测试报告</p>
@@ -245,8 +245,7 @@ function showOutput(id, name) {
         </div>
         <pre>
         
-pt1.1: {'username': 'name0', 'mobile': '189978798', 'code': '200', 'data': 'eee'}
-
+pt1.1: 
 
         </pre>
     </div>
@@ -279,25 +278,30 @@ pt1.1: {'username': 'name0', 'mobile': '189978798', 'code': '200', 'data': 'eee'
         </div>
         <pre>
         
-ft2.1: {'username': 'name0', 'mobile': '189978798', 'code': '200', 'data': 'eee'}
-200
-"name"
-测试通过
-200
-"searchKeys({\"result\":0,\"data\":[{\"name\":\"Java\\u5165\\u95e8\",\"links\":\"\\/\\/class.imooc.com\\/sc\\/18\"},{\"name\":\"\\u524d\\u7aef\\u5165\\u95e8\",\"links\":\"\\/\\/class.imooc.com\\/sc\\/20\"}],\"msg\":\"\\u6210\\u529f\"})"
-测试失败
-1
-1
+ft2.1: Traceback (most recent call last):
+  File "F:\python_Jiekou\Auto\case\test_run.py", line 71, in test_on_run
+    self.data.write_result(i,res)
+  File "F:\python_Jiekou\Auto\common\getdata.py", line 89, in write_result
+    self.read_excel.write_value(row,col,value)
+  File "F:\python_Jiekou\Auto\common\read_excel.py", line 36, in write_value
+    sheet_data.write(row, col, value)
+  File "D:\python3.6.5\lib\site-packages\xlwt\Worksheet.py", line 1088, in write
+    self.row(r).write(c, label, style)
+  File "D:\python3.6.5\lib\site-packages\xlwt\Row.py", line 254, in write
+    raise Exception("Unexpected data type %r" % type(label))
+Exception: Unexpected data type &lt;class 'bytes'&gt;
 Traceback (most recent call last):
-  File "F:\python_Jiekou\Auto\case\test_run.py", line 52, in test_on_run
-    self.send_email.send_main(pass_count,fail_count)
-  File "F:\python_Jiekou\Auto\common\send_email.py", line 38, in send_main
-    self.send_mail(user_list,sub,content)
-  File "F:\python_Jiekou\Auto\common\send_email.py", line 23, in send_mail
-    server.sendmail(user,user_list,message.as_string())
-  File "H:\Python27\lib\smtplib.py", line 737, in sendmail
-    raise SMTPDataError(code, resp)
-SMTPDataError: (554, 'DT:SPM 163 smtp3,DdGowABXnRZpNj1cRgIaAA--.387S2 1547515498,please see http://mail.163.com/help/help_spam_16.htm?ip=163.125.116.114&amp;hostid=smtp3&amp;time=1547515498')
+  File "F:\python_Jiekou\Auto\case\test_run.py", line 71, in test_on_run
+    self.data.write_result(i,res)
+  File "F:\python_Jiekou\Auto\common\getdata.py", line 89, in write_result
+    self.read_excel.write_value(row,col,value)
+  File "F:\python_Jiekou\Auto\common\read_excel.py", line 36, in write_value
+    sheet_data.write(row, col, value)
+  File "D:\python3.6.5\lib\site-packages\xlwt\Worksheet.py", line 1088, in write
+    self.row(r).write(c, label, style)
+  File "D:\python3.6.5\lib\site-packages\xlwt\Row.py", line 254, in write
+    raise Exception("Unexpected data type %r" % type(label))
+Exception: Unexpected data type &lt;class 'bytes'&gt;
 
 
         </pre>

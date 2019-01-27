@@ -66,4 +66,4 @@ if __name__ == '__main__':
 
     r=DepandentData("test_002")
     t=r.run_depandent()
-    print t
+    print(t)

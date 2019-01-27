@@ -1,0 +1,425 @@
+[2019-01-24 14:02:38,769] - [line:26] __console - INFO: ------Ö´ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½b'post\xe7\x99\xbb\xe5\xbd\x95'
+[2019-01-24 14:02:38,774] - [line:26] __console - INFO: inputdata> ï¿½ï¿½ï¿½ï¿½:{"username": "name", "password": "189978798"},Ô¤ï¿½Ú½ï¿½ï¿½:b'"name"'
+[2019-01-24 14:02:39,787] - [line:26] __console - INFO: postï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô­ï¿½ï¿½:HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /loginpost (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003B32710>: Failed to establish a new connection: [WinError 10061] ï¿½ï¿½ï¿½ï¿½Ä¿ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü¾ï¿½ï¿½ï¿½ï¿½Þ·ï¿½ï¿½ï¿½ï¿½Ó¡ï¿½',))
+[2019-01-24 14:12:57,397] - [line:26] __console - INFO: getÇëÇó³ö´í£¬³ö´íÔ­Òò:No connection adapters were found for '{'callback': 'searchKeys', '_': '1547087518961'}'
+[2019-01-24 14:14:11,849] - [line:26] __console - INFO: getÇëÇó³ö´í£¬³ö´íÔ­Òò:No connection adapters were found for '{'callback': 'searchKeys', '_': '1547087518961'}'
+[2019-01-24 14:14:21,500] - [line:26] __console - INFO: getÇëÇó³ö´í£¬³ö´íÔ­Òò:No connection adapters were found for '{'callback': 'searchKeys', '_': '1547087518961'}'
+[2019-01-24 14:14:31,851] - [line:26] __console - INFO: getÇëÇó³ö´í£¬³ö´íÔ­Òò:No connection adapters were found for '{'callback': 'searchKeys', '_': '1547087518961'}'
+[2019-01-24 14:15:03,334] - [line:26] __console - INFO: getÇëÇó³ö´í£¬³ö´íÔ­Òò:No connection adapters were found for '{'callback': 'searchKeys', '_': '1547087518961'}'
+[2019-01-24 14:15:40,876] - [line:26] __console - INFO: getÇëÇó³ö´í£¬³ö´íÔ­Òò:No connection adapters were found for '{"callback": "searchKeys", "_": "1547087518961"}'
+[2019-01-24 14:16:00,511] - [line:26] __console - INFO: postÇëÇó³ö´í£¬³ö´íÔ­Òò:No connection adapters were found for '{"callback": "searchKeys", "_": "1547087518961"}'
+[2019-01-24 14:20:44,504] - [line:26] __console - INFO: postÇëÇó³ö´í£¬³ö´íÔ­Òò:Invalid URL '': No schema supplied. Perhaps you meant http://?
+[2019-01-24 14:21:00,324] - [line:26] __console - INFO: postÇëÇó³ö´í£¬³ö´íÔ­Òò:Invalid URL '': No schema supplied. Perhaps you meant http://?
+[2019-01-24 14:22:09,282] - [line:26] __console - INFO: postÇëÇó³ö´í£¬³ö´íÔ­Òò:Invalid URL '': No schema supplied. Perhaps you meant http://?
+[2019-01-24 14:24:01,977] - [line:26] __console - INFO: postÇëÇó³ö´í£¬³ö´íÔ­Òò:Invalid URL '': No schema supplied. Perhaps you meant http://?
+[2019-01-24 14:24:19,164] - [line:26] __console - INFO: ------Ö´ÐÐÓÃÀý£ºb'post\xe7\x99\xbb\xe5\xbd\x95'
+[2019-01-24 14:24:19,164] - [line:26] __console - INFO: inputdata> ²ÎÊý:{"username": "name", "password": "189978798"},Ô¤ÆÚ½á¹û:b'"name"'
+[2019-01-24 14:24:20,185] - [line:26] __console - INFO: postÇëÇó³ö´í£¬³ö´íÔ­Òò:HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /loginpost (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003882588>: Failed to establish a new connection: [WinError 10061] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ý¼«¾Ü¾ø£¬ÎÞ·¨Á¬½Ó¡£',))
+[2019-01-24 15:52:20,205] - [line:26] __console - INFO: ---²âÊÔ¿ªÊ¼----
+[2019-01-24 15:52:20,225] - [line:30] __console - WARNING: ----²âÊÔ½áÊø----
+[2019-01-24 15:52:32,722] - [line:26] __console - INFO: ------Ö´ÐÐÓÃÀý£ºb'post\xe7\x99\xbb\xe5\xbd\x95'
+[2019-01-24 15:52:32,722] - [line:26] __console - INFO: inputdata> ²ÎÊý:{"username": "name", "password": "189978798"},Ô¤ÆÚ½á¹û:b'"name"'
+[2019-01-24 15:52:32,742] - [line:26] __console - INFO: postÇëÇó³ö´í£¬³ö´íÔ­Òò:Expecting value: line 1 column 1 (char 0)
+[2019-01-24 16:13:12,073] - [line:26] __console - INFO: postÇëÇó³ö´í£¬³ö´íÔ­Òò:Expecting value: line 1 column 1 (char 0)
+[2019-01-24 16:13:26,182] - [line:26] __console - INFO: postÇëÇó³ö´í£¬³ö´íÔ­Òò:Expecting value: line 1 column 1 (char 0)
+[2019-01-24 16:14:16,464] - [line:26] __console - INFO: postÇëÇó³ö´í£¬³ö´íÔ­Òò:Expecting value: line 1 column 1 (char 0)
+[2019-01-24 16:20:13,589] - [line:26] __console - INFO: postÇëÇó³ö´í£¬³ö´íÔ­Òò:Expecting value: line 1 column 1 (char 0)
+[2019-01-24 16:21:14,610] - [line:26] __console - INFO: postÇëÇó³ö´í£¬³ö´íÔ­Òò:'str' object has no attribute 'json'
+[2019-01-24 16:21:18,733] - [line:26] __console - INFO: postÇëÇó³ö´í£¬³ö´íÔ­Òò:'str' object has no attribute 'json'
+[2019-01-24 16:21:41,686] - [line:26] __console - INFO: postÇëÇó³ö´í£¬³ö´íÔ­Òò:Expecting value: line 1 column 1 (char 0)
+[2019-01-24 16:32:37,737] - [line:26] __console - INFO: postÇëÇó³ö´í£¬³ö´íÔ­Òò:'str' object has no attribute 'decode'
+[2019-01-24 16:42:41,618] - [line:26] __console - INFO: postÇëÇó³ö´í£¬³ö´íÔ­Òò:the JSON object must be str, bytes or bytearray, not 'Response'
+[2019-01-24 16:47:46,316] - [line:26] __console - INFO: postÇëÇó³ö´í£¬³ö´íÔ­Òò:Expecting value: line 1 column 1 (char 0)
+[2019-01-24 16:53:33,797] - [line:26] __console - INFO: postÇëÇó³ö´í£¬³ö´íÔ­Òò:'bytes' object has no attribute 'encode'
+[2019-01-24 16:54:01,450] - [line:26] __console - INFO: postÇëÇó³ö´í£¬³ö´íÔ­Òò:'bytes' object has no attribute 'encode'
+[2019-01-24 16:58:00,772] - [line:26] __console - INFO: getÇëÇó³ö´í£¬³ö´íÔ­Òò:Expecting value: line 1 column 1 (char 0)
+[2019-01-24 16:59:34,076] - [line:26] __console - INFO: getÇëÇó³ö´í£¬³ö´íÔ­Òò:Expecting value: line 1 column 1 (char 0)
+[2019-01-24 16:59:59,173] - [line:26] __console - INFO: getÇëÇó³ö´í£¬³ö´íÔ­Òò:Expecting value: line 1 column 1 (char 0)
+[2019-01-24 17:06:08,374] - [line:26] __console - INFO: ------Ö´ÐÐÓÃÀý£ºb'post\xe7\x99\xbb\xe5\xbd\x95'
+[2019-01-24 17:06:08,394] - [line:26] __console - INFO: inputdata> ²ÎÊý:{"username": "name", "password": "189978798"},Ô¤ÆÚ½á¹û:b'"name"'
+[2019-01-24 17:07:08,338] - [line:26] __console - INFO: ------Ö´ÐÐÓÃÀý£ºpostµÇÂ¼
+[2019-01-24 17:07:08,338] - [line:26] __console - INFO: inputdata> ²ÎÊý:{"username": "name", "password": "189978798"},Ô¤ÆÚ½á¹û:"name"
+[2019-01-24 17:07:08,374] - [line:26] __console - INFO: ----ÓÃÀý²âÊÔÊ§°Ü£¬·µ»Ø½á¹û£º<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Page not found at /loginpost</title>
+  <meta name="robots" content="NONE,NOARCHIVE">
+  <style type="text/css">
+    html * { padding:0; margin:0; }
+    body * { padding:10px 20px; }
+    body * * { padding:0; }
+    body { font:small sans-serif; background:#eee; color:#000; }
+    body>div { border-bottom:1px solid #ddd; }
+    h1 { font-weight:normal; margin-bottom:.4em; }
+    h1 span { font-size:60%; color:#666; font-weight:normal; }
+    table { border:none; border-collapse: collapse; width:100%; }
+    td, th { vertical-align:top; padding:2px 3px; }
+    th { width:12em; text-align:right; color:#666; padding-right:.5em; }
+    #info { background:#f6f6f6; }
+    #info ol { margin: 0.5em 4em; }
+    #info ol li { font-family: monospace; }
+    #summary { background: #ffc; }
+    #explanation { background:#eee; border-bottom: 0px none; }
+  </style>
+</head>
+<body>
+  <div id="summary">
+    <h1>Page not found <span>(404)</span></h1>
+    <table class="meta">
+      <tr>
+        <th>Request Method:</th>
+        <td>POST</td>
+      </tr>
+      <tr>
+        <th>Request URL:</th>
+        <td>http://127.0.0.1:8000/loginpost</td>
+      </tr>
+      
+    </table>
+  </div>
+  <div id="info">
+    
+      <p>
+      Using the URLconf defined in <code>untitled1.urls</code>,
+      Django tried these URL patterns, in this order:
+      </p>
+      <ol>
+        
+          <li>
+            
+                admin/
+                
+            
+          </li>
+        
+          <li>
+            
+                login/
+                
+            
+          </li>
+        
+      </ol>
+      <p>
+        
+        The current path, <code>loginpost</code>, didn't match any of these.
+      </p>
+    
+  </div>
+
+  <div id="explanation">
+    <p>
+      You're seeing this error because you have <code>DEBUG = True</code> in
+      your Django settings file. Change that to <code>False</code>, and Django
+      will display a standard 404 page.
+    </p>
+  </div>
+</body>
+</html>
+
+[2019-01-24 17:07:08,379] - [line:26] __console - INFO: ------Ö´ÐÐÓÃÀý£º»ñÈ¡Ò³Ãæ
+[2019-01-24 17:07:08,379] - [line:26] __console - INFO: inputdata> ²ÎÊý:{"callback": "searchKeys", "_": "1547087518961"},Ô¤ÆÚ½á¹û:"result":0
+[2019-01-24 17:07:08,549] - [line:26] __console - INFO: ------ÓÃÀý²âÊÔÍ¨¹ý,Êµ¼Ê½á¹û£ºsearchKeys({"result":0,"data":[{"name":"JavaÈëÃÅ","links":"\/\/class.imooc.com\/sc\/18"},{"name":"Ç°¶ËÈëÃÅ","links":"\/\/class.imooc.com\/sc\/20"}],"msg":"³É¹¦"})
+[2019-01-24 17:07:08,559] - [line:26] __console - INFO: ------Ö´ÐÐÓÃÀý£ºÄ½¿ÎÍøÓÃ»§µÇÂ¼--²ÎÊýÕýÈ·
+[2019-01-24 17:07:08,569] - [line:26] __console - INFO: inputdata> ²ÎÊý:{"username": "13316588360", "password": "sly1992.", "verify": "", "referer": "https://m.imooc.com"},Ô¤ÆÚ½á¹û:"status":10001
+[2019-01-24 17:07:09,007] - [line:26] __console - INFO: ------ÓÃÀý²âÊÔÍ¨¹ý,Êµ¼Ê½á¹û£º{"status":10001,"msg":"³É¹¦","data":{"userInfo":{"uid":"3001774"},"url":["http:\/\/www.imooc.com\/user\/ssologin?token=th2-sgEehRFMRawXZl1J-vplke-GXnWMutsDigvpUag-k-Tflb1BIo3Mxbg6jxKGlammeL1OgJ0dps--Y87LNnywD6vmfywjTHpWcs26NZFjb__9PyBvH8lb9zPW4ucF7sm37km7viNVoIWRDXV68tmrL2ubq6iiVAPq4Xfs645tipWzEcj7jaIOqqWIm2YG2X1_euu2sqVkSIQlcMeEMRajW-hTDxmdBISNnBlSYMZ4QiWFYCJfaDdYGxu7wDgi_8VOXH3hzQ_rf7gT3kSty10Ns809lQcH-tuL9NrsoSb5","http:\/\/coding.imooc.com\/user\/ssologin?token=OchWf51hjJtVtvtvVp_kC7bxFCxLHkvgEbvI6KgGD9j8GtnEOqwYzmDoHTvpk_5p4wS2mqjIv6SxV7RdUR5byi1TkABlxpJ-Mx0rMhiZuyzrF0yfR8Kkv3H7OKqh-xFvJyBPiY57lUvXZSLC8zeDoG0SF-mW05zD_IgAQUFl-RlrdZx-PFC0BMRR6zvnkrXGwpQro35gjGYV0uqpOrNpx7xu-iee3QovsMWWwAgNzFe-83KFJ1JFpDH80YjmuwTAcvlqA1NpRTkjghHcPOhsRpIG4JUdPlmW-MT6C"]}}
+[2019-01-24 17:07:09,017] - [line:26] __console - INFO: ËùÓÐÓÃÀý²âÊÔÍê³É£¬³É¹¦Êý:2,Ê§°ÜÊý£º1
+[2019-01-24 17:35:50,452] - [line:26] __console - INFO: ------Ö´ÐÐÓÃÀý£ºpostµÇÂ¼
+[2019-01-24 17:35:50,512] - [line:26] __console - INFO: inputdata> ²ÎÊý:{"username": "name", "password": "189978798"},Ô¤ÆÚ½á¹û:"name"
+[2019-01-24 17:35:50,572] - [line:26] __console - INFO: ----ÓÃÀý²âÊÔÊ§°Ü£¬·µ»Ø½á¹û£º<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Page not found at /loginpost</title>
+  <meta name="robots" content="NONE,NOARCHIVE">
+  <style type="text/css">
+    html * { padding:0; margin:0; }
+    body * { padding:10px 20px; }
+    body * * { padding:0; }
+    body { font:small sans-serif; background:#eee; color:#000; }
+    body>div { border-bottom:1px solid #ddd; }
+    h1 { font-weight:normal; margin-bottom:.4em; }
+    h1 span { font-size:60%; color:#666; font-weight:normal; }
+    table { border:none; border-collapse: collapse; width:100%; }
+    td, th { vertical-align:top; padding:2px 3px; }
+    th { width:12em; text-align:right; color:#666; padding-right:.5em; }
+    #info { background:#f6f6f6; }
+    #info ol { margin: 0.5em 4em; }
+    #info ol li { font-family: monospace; }
+    #summary { background: #ffc; }
+    #explanation { background:#eee; border-bottom: 0px none; }
+  </style>
+</head>
+<body>
+  <div id="summary">
+    <h1>Page not found <span>(404)</span></h1>
+    <table class="meta">
+      <tr>
+        <th>Request Method:</th>
+        <td>POST</td>
+      </tr>
+      <tr>
+        <th>Request URL:</th>
+        <td>http://127.0.0.1:8000/loginpost</td>
+      </tr>
+      
+    </table>
+  </div>
+  <div id="info">
+    
+      <p>
+      Using the URLconf defined in <code>untitled1.urls</code>,
+      Django tried these URL patterns, in this order:
+      </p>
+      <ol>
+        
+          <li>
+            
+                admin/
+                
+            
+          </li>
+        
+          <li>
+            
+                login/
+                
+            
+          </li>
+        
+      </ol>
+      <p>
+        
+        The current path, <code>loginpost</code>, didn't match any of these.
+      </p>
+    
+  </div>
+
+  <div id="explanation">
+    <p>
+      You're seeing this error because you have <code>DEBUG = True</code> in
+      your Django settings file. Change that to <code>False</code>, and Django
+      will display a standard 404 page.
+    </p>
+  </div>
+</body>
+</html>
+
+[2019-01-24 17:35:50,572] - [line:26] __console - INFO: ------Ö´ÐÐÓÃÀý£º»ñÈ¡Ò³Ãæ
+[2019-01-24 17:35:50,582] - [line:26] __console - INFO: inputdata> ²ÎÊý:{"callback": "searchKeys", "_": "1547087518961"},Ô¤ÆÚ½á¹û:"result":0
+[2019-01-24 17:35:50,774] - [line:26] __console - INFO: ------ÓÃÀý²âÊÔÍ¨¹ý,Êµ¼Ê½á¹û£ºsearchKeys({"result":0,"data":[{"name":"JavaÈëÃÅ","links":"\/\/class.imooc.com\/sc\/18"},{"name":"Ç°¶ËÈëÃÅ","links":"\/\/class.imooc.com\/sc\/20"}],"msg":"³É¹¦"})
+[2019-01-24 17:35:50,774] - [line:26] __console - INFO: ------Ö´ÐÐÓÃÀý£ºÄ½¿ÎÍøÓÃ»§µÇÂ¼--²ÎÊýÕýÈ·
+[2019-01-24 17:35:50,774] - [line:26] __console - INFO: inputdata> ²ÎÊý:{"username": "13316588360", "password": "sly1992.", "verify": "", "referer": "https://m.imooc.com"},Ô¤ÆÚ½á¹û:"status":10001
+[2019-01-24 17:35:51,244] - [line:26] __console - INFO: ------ÓÃÀý²âÊÔÍ¨¹ý,Êµ¼Ê½á¹û£º{"status":10001,"msg":"³É¹¦","data":{"userInfo":{"uid":"3001774"},"url":["http:\/\/www.imooc.com\/user\/ssologin?token=2rRjE6MyCPyZVQF5LVmdv_9V1Zuh8WbuNeJofkEzwYI-MvQwrE1cB77G0rBA2N_HtPvqDk0YA3Hv6ibXLc10miOzh_oEwQfq6Q469Zp_QCmeA37FiWNgby1tkX3i1DIxbxRrUlmRAy4uXG03xmMYozlZGr193gxXb0wBbDOKgnvX83EpfS4Oev0v2eysZFyNJN3n3GP2juNV3oTFFh_tdDj3Ef7ULhnxbD_I4YDVC6a3_UPHRsfZcNiix1wywcvc-g6QPCwlk1yFWt0VKidDdNHecJZAnfbw-6G0M","http:\/\/coding.imooc.com\/user\/ssologin?token=-eKVDBGyB9nJ-9RuNcGQzIzFt3uWeoCM4x4iWJTH8RfTPV4JRxyW5C1Ur3ltyR_qxcPFQBaG69pWhvmounj5OU5m4MnvAKQYBzHf8i_tpe-5PV4WFRNRBwBWFORaoYERnNQ0PF8PWgYc7I5KJLLnJz2Qk8LyXCHoq6KnKqEVVepbX-zKixQDA0FtBdMLHDpOkjzSiuoFKv7lEGWHfjJ9Ty5xQOytkok_j6-3Gg60wm1pQE1n6N3Gp87PcrrSdfBPoU7NKApzKOaEdv9RqjU5ZstbwHzQeMJ0-0hQCmJ1FD"]}}
+[2019-01-24 17:35:51,244] - [line:26] __console - INFO: ËùÓÐÓÃÀý²âÊÔÍê³É£¬³É¹¦Êý:2,Ê§°ÜÊý£º1
+[2019-01-24 17:37:30,936] - [line:26] __console - INFO: ------Ö´ÐÐÓÃÀý£ºpostµÇÂ¼
+[2019-01-24 17:37:30,936] - [line:26] __console - INFO: inputdata> ²ÎÊý:{"username": "name", "password": "189978798"},Ô¤ÆÚ½á¹û:"name"
+[2019-01-24 17:37:30,966] - [line:26] __console - INFO: ----ÓÃÀý²âÊÔÊ§°Ü£¬·µ»Ø½á¹û£º<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Page not found at /loginpost</title>
+  <meta name="robots" content="NONE,NOARCHIVE">
+  <style type="text/css">
+    html * { padding:0; margin:0; }
+    body * { padding:10px 20px; }
+    body * * { padding:0; }
+    body { font:small sans-serif; background:#eee; color:#000; }
+    body>div { border-bottom:1px solid #ddd; }
+    h1 { font-weight:normal; margin-bottom:.4em; }
+    h1 span { font-size:60%; color:#666; font-weight:normal; }
+    table { border:none; border-collapse: collapse; width:100%; }
+    td, th { vertical-align:top; padding:2px 3px; }
+    th { width:12em; text-align:right; color:#666; padding-right:.5em; }
+    #info { background:#f6f6f6; }
+    #info ol { margin: 0.5em 4em; }
+    #info ol li { font-family: monospace; }
+    #summary { background: #ffc; }
+    #explanation { background:#eee; border-bottom: 0px none; }
+  </style>
+</head>
+<body>
+  <div id="summary">
+    <h1>Page not found <span>(404)</span></h1>
+    <table class="meta">
+      <tr>
+        <th>Request Method:</th>
+        <td>POST</td>
+      </tr>
+      <tr>
+        <th>Request URL:</th>
+        <td>http://127.0.0.1:8000/loginpost</td>
+      </tr>
+      
+    </table>
+  </div>
+  <div id="info">
+    
+      <p>
+      Using the URLconf defined in <code>untitled1.urls</code>,
+      Django tried these URL patterns, in this order:
+      </p>
+      <ol>
+        
+          <li>
+            
+                admin/
+                
+            
+          </li>
+        
+          <li>
+            
+                login/
+                
+            
+          </li>
+        
+      </ol>
+      <p>
+        
+        The current path, <code>loginpost</code>, didn't match any of these.
+      </p>
+    
+  </div>
+
+  <div id="explanation">
+    <p>
+      You're seeing this error because you have <code>DEBUG = True</code> in
+      your Django settings file. Change that to <code>False</code>, and Django
+      will display a standard 404 page.
+    </p>
+  </div>
+</body>
+</html>
+
+[2019-01-24 17:37:30,976] - [line:26] __console - INFO: ------Ö´ÐÐÓÃÀý£º»ñÈ¡Ò³Ãæ
+[2019-01-24 17:37:30,976] - [line:26] __console - INFO: inputdata> ²ÎÊý:{"callback": "searchKeys", "_": "1547087518961"},Ô¤ÆÚ½á¹û:"result":0
+[2019-01-24 17:37:31,136] - [line:26] __console - INFO: ------ÓÃÀý²âÊÔÍ¨¹ý,Êµ¼Ê½á¹û£ºsearchKeys({"result":0,"data":[{"name":"JavaÈëÃÅ","links":"\/\/class.imooc.com\/sc\/18"},{"name":"Ç°¶ËÈëÃÅ","links":"\/\/class.imooc.com\/sc\/20"}],"msg":"³É¹¦"})
+[2019-01-24 17:37:31,146] - [line:26] __console - INFO: ------Ö´ÐÐÓÃÀý£ºÄ½¿ÎÍøÓÃ»§µÇÂ¼--²ÎÊýÕýÈ·
+[2019-01-24 17:37:31,146] - [line:26] __console - INFO: inputdata> ²ÎÊý:{"username": "13316588360", "password": "sly1992.", "verify": "", "referer": "https://m.imooc.com"},Ô¤ÆÚ½á¹û:"status":10001
+[2019-01-24 17:37:31,496] - [line:26] __console - INFO: ------ÓÃÀý²âÊÔÍ¨¹ý,Êµ¼Ê½á¹û£º{"status":10001,"msg":"³É¹¦","data":{"userInfo":{"uid":"3001774"},"url":["http:\/\/www.imooc.com\/user\/ssologin?token=TOiZ0vsEajoY0tdgkbDxvQ86Zh4z_anhVSZ8yYU18HCIQo8EUhZssoZH6K71OplNWolyA_WH_HSeBfIXg_aYE3HW7Ja6IoK3TOdHSiKVryfbmrZZbONVCMw-pUuKah9MMHlkaPp3tGMPan5SJKmeC9cUps_ExoP3dCWfxuaWM2mPMXDEHA8wcvo4CiDB5JR0Do-zTiHA5YyLMHAk1u1aYHERhLr2UW3A40AIvjB8cqU6K-dxwZ66y3MM_AAM7JDPrcRoiW1kCOjY0xmR2uTVAveJoHxc5CYu-CeTS5j6","http:\/\/coding.imooc.com\/user\/ssologin?token=lrlCLpTdAug41071C6PrRF8le6OirMmeAO1bWnwRxj_sKvk_KTK3SFlPTP0SG_g5BL7rItHVFtDCcSWNRct44k3l6uwIYBgK53LaS7MDfWyQgI7NbKc8X56F99uHeT9M4FquwXF6_UHXRKjb8H790Gf4Bpn8Gr9ub2dPIkbVVML3cMkWVjfEDglM94owi7zTdGBqzfTc8DeHScwyUi0zRtFUv5uWGY9KlXuurHnkVLoxRThUiaV32NRvmd9dgZR7uq29APAhsJAaGF9JmphVBPn-DpY7kbHY-EQ2AZBJgsFnCSbI"]}}
+[2019-01-24 17:37:31,496] - [line:26] __console - INFO: ËùÓÐÓÃÀý²âÊÔÍê³É£¬³É¹¦Êý:2,Ê§°ÜÊý£º1
+[2019-01-24 17:38:18,213] - [line:26] __console - INFO: ------Ö´ÐÐÓÃÀý£ºpostµÇÂ¼
+[2019-01-24 17:38:18,223] - [line:26] __console - INFO: inputdata> ²ÎÊý:{"username": "name", "password": "189978798"},Ô¤ÆÚ½á¹û:"name"
+[2019-01-24 17:38:18,243] - [line:26] __console - INFO: ----ÓÃÀý²âÊÔÊ§°Ü£¬·µ»Ø½á¹û£º<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Page not found at /loginpost</title>
+  <meta name="robots" content="NONE,NOARCHIVE">
+  <style type="text/css">
+    html * { padding:0; margin:0; }
+    body * { padding:10px 20px; }
+    body * * { padding:0; }
+    body { font:small sans-serif; background:#eee; color:#000; }
+    body>div { border-bottom:1px solid #ddd; }
+    h1 { font-weight:normal; margin-bottom:.4em; }
+    h1 span { font-size:60%; color:#666; font-weight:normal; }
+    table { border:none; border-collapse: collapse; width:100%; }
+    td, th { vertical-align:top; padding:2px 3px; }
+    th { width:12em; text-align:right; color:#666; padding-right:.5em; }
+    #info { background:#f6f6f6; }
+    #info ol { margin: 0.5em 4em; }
+    #info ol li { font-family: monospace; }
+    #summary { background: #ffc; }
+    #explanation { background:#eee; border-bottom: 0px none; }
+  </style>
+</head>
+<body>
+  <div id="summary">
+    <h1>Page not found <span>(404)</span></h1>
+    <table class="meta">
+      <tr>
+        <th>Request Method:</th>
+        <td>POST</td>
+      </tr>
+      <tr>
+        <th>Request URL:</th>
+        <td>http://127.0.0.1:8000/loginpost</td>
+      </tr>
+      
+    </table>
+  </div>
+  <div id="info">
+    
+      <p>
+      Using the URLconf defined in <code>untitled1.urls</code>,
+      Django tried these URL patterns, in this order:
+      </p>
+      <ol>
+        
+          <li>
+            
+                admin/
+                
+            
+          </li>
+        
+          <li>
+            
+                login/
+                
+            
+          </li>
+        
+      </ol>
+      <p>
+        
+        The current path, <code>loginpost</code>, didn't match any of these.
+      </p>
+    
+  </div>
+
+  <div id="explanation">
+    <p>
+      You're seeing this error because you have <code>DEBUG = True</code> in
+      your Django settings file. Change that to <code>False</code>, and Django
+      will display a standard 404 page.
+    </p>
+  </div>
+</body>
+</html>
+
+[2019-01-24 17:38:18,253] - [line:26] __console - INFO: ------Ö´ÐÐÓÃÀý£º»ñÈ¡Ò³Ãæ
+[2019-01-24 17:38:18,253] - [line:26] __console - INFO: inputdata> ²ÎÊý:{"callback": "searchKeys", "_": "1547087518961"},Ô¤ÆÚ½á¹û:"result":0
+[2019-01-24 17:38:18,413] - [line:26] __console - INFO: ------ÓÃÀý²âÊÔÍ¨¹ý,Êµ¼Ê½á¹û£ºsearchKeys({"result":0,"data":[{"name":"JavaÈëÃÅ","links":"\/\/class.imooc.com\/sc\/18"},{"name":"Ç°¶ËÈëÃÅ","links":"\/\/class.imooc.com\/sc\/20"}],"msg":"³É¹¦"})
+[2019-01-24 17:38:18,413] - [line:26] __console - INFO: ------Ö´ÐÐÓÃÀý£ºÄ½¿ÎÍøÓÃ»§µÇÂ¼--²ÎÊýÕýÈ·
+[2019-01-24 17:38:18,423] - [line:26] __console - INFO: inputdata> ²ÎÊý:{"username": "13316588360", "password": "sly1992.", "verify": "", "referer": "https://m.imooc.com"},Ô¤ÆÚ½á¹û:"status":10001
+[2019-01-24 17:38:18,685] - [line:26] __console - INFO: ------ÓÃÀý²âÊÔÍ¨¹ý,Êµ¼Ê½á¹û£º{"status":10001,"msg":"³É¹¦","data":{"userInfo":{"uid":"3001774"},"url":["http:\/\/www.imooc.com\/user\/ssologin?token=mXabIrYnM5nWDCdWkbDZcgMITfLVqwxvshauR6PqOwe2oBJ33KvlUwLgMK0shGNplbi8F5_XJQWiY7bq1LuPwMtYFTmlDDRGYGgv_OPEAPc97iPF53u1ImI8cP26wAA3aQ-GoEghdSa6rn0dIWg8zh5onecX-xyNJ5fHy8c3ktuVv7tz-W-zMaIMFDg7G2uZQnGqN5eRIMbxeL8Q4J5kckaTV9gibx5Y0fB0aDs2273wqg8SehDUTFZ8zMtBlSgtXj3oXiPlDRZa7_PPwbB4pAP87CuYOOua-7xFcP6","http:\/\/coding.imooc.com\/user\/ssologin?token=iUtbzWdK9a3xP4BqMutWc3vSOnY7GdNrpRWfipntsW8JMOaaaBmxCaiuw6bLdOgIkpcsgQfc2oX5fa3Y4MUdcEkXKwaqQzXE-wbycuXJ1Z3N_TnTJJuTP-5vOEcq2Sopw5jVnQQmz4rhikZXdNotIjt52K2ERt5E3az5S9-cLllmltWb9PwGoIFoItcTd-lI9HzQp0pbwWPzUJoLBLzXVFxhEzlYT-0ilmcDQ2rDWGVb1pvmMP3ZU0ASuSfKinbEgQ4xkLKsgrLJebQrAL7XRKQXFaSjn1yK-eK7dl"]}}
+[2019-01-24 17:38:18,689] - [line:26] __console - INFO: ËùÓÐÓÃÀý²âÊÔÍê³É£¬³É¹¦Êý:2,Ê§°ÜÊý£º1
+[2019-01-24 17:39:59,107] - [line:26] __console - INFO: ------Ö´ÐÐÓÃÀý£ºpostµÇÂ¼
+[2019-01-24 17:39:59,137] - [line:26] __console - INFO: inputdata> ²ÎÊý:{"username": "name", "password": "189978798"},Ô¤ÆÚ½á¹û:"name"
+[2019-01-24 17:39:59,307] - [line:26] __console - INFO: postÇëÇó³ö´í£¬³ö´íÔ­Òò:'unicodeescape' codec can't decode bytes in position 10887-10888: truncated \uXXXX escape
+[2019-01-24 17:43:37,994] - [line:26] __console - INFO: postÇëÇó³ö´í£¬³ö´íÔ­Òò:'unicodeescape' codec can't decode bytes in position 10887-10888: truncated \uXXXX escape
+[2019-01-24 17:45:37,226] - [line:26] __console - INFO: postÇëÇó³ö´í£¬³ö´íÔ­Òò:'unicodeescape' codec can't decode bytes in position 10887-10888: truncated \uXXXX escape
+[2019-01-24 17:45:57,326] - [line:26] __console - INFO: postÇëÇó³ö´í£¬³ö´íÔ­Òò:'str' object has no attribute 'decode'
+[2019-01-24 17:49:02,893] - [line:26] __console - INFO: ------Ö´ÐÐÓÃÀý£ºpostµÇÂ¼
+[2019-01-24 17:49:02,893] - [line:26] __console - INFO: inputdata> ²ÎÊý:{"username": "name", "password": "189978798"},Ô¤ÆÚ½á¹û:"name"
+[2019-01-24 17:49:05,164] - [line:26] __console - INFO: postÇëÇó³ö´í£¬³ö´íÔ­Òò:HTTPConnectionPool(host='127.0.01', port=8000): Max retries exceeded with url: /login (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000038E6C88>: Failed to establish a new connection: [Errno 11004] getaddrinfo failed',))
+[2019-01-24 17:51:18,678] - [line:26] __console - INFO: ------Ö´ÐÐÓÃÀý£ºpostµÇÂ¼
+[2019-01-24 17:51:18,680] - [line:26] __console - INFO: inputdata> ²ÎÊý:{"username": "name", "password": "189978798"},Ô¤ÆÚ½á¹û:"name"
+[2019-01-24 17:51:20,961] - [line:26] __console - INFO: postÇëÇó³ö´í£¬³ö´íÔ­Òò:HTTPConnectionPool(host='127.0.01', port=8000): Max retries exceeded with url: /login (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000038A6C88>: Failed to establish a new connection: [Errno 11004] getaddrinfo failed',))
+[2019-01-24 17:54:13,407] - [line:26] __console - INFO: postÇëÇó³ö´í£¬³ö´íÔ­Òò:'str' object has no attribute 'items'
+[2019-01-24 17:54:23,630] - [line:26] __console - INFO: ------Ö´ÐÐÓÃÀý£ºpostµÇÂ¼
+[2019-01-24 17:54:23,632] - [line:26] __console - INFO: inputdata> ²ÎÊý:{"username": "name", "password": "189978798"},Ô¤ÆÚ½á¹û:"name"
+[2019-01-24 17:54:25,898] - [line:26] __console - INFO: postÇëÇó³ö´í£¬³ö´íÔ­Òò:HTTPConnectionPool(host='127.0.01', port=8000): Max retries exceeded with url: /login (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000038A6C88>: Failed to establish a new connection: [Errno 11004] getaddrinfo failed',))
+[2019-01-24 20:42:36,806] - [line:26] __console - INFO: postÇëÇó³ö´í£¬³ö´íÔ­Òò:'str' object has no attribute 'items'
+[2019-01-24 20:42:46,659] - [line:26] __console - INFO: postÇëÇó³ö´í£¬³ö´íÔ­Òò:'str' object has no attribute 'items'
+[2019-01-24 20:42:54,885] - [line:26] __console - INFO: postÇëÇó³ö´í£¬³ö´íÔ­Òò:'str' object has no attribute 'items'
+[2019-01-24 20:43:07,287] - [line:26] __console - INFO: postÇëÇó³ö´í£¬³ö´íÔ­Òò:'str' object has no attribute 'items'
+[2019-01-24 20:43:21,427] - [line:26] __console - INFO: postÇëÇó³ö´í£¬³ö´íÔ­Òò:'str' object has no attribute 'items'
+[2019-01-24 21:14:52,317] - [line:26] __console - INFO: ------Ö´ÐÐÓÃÀý£ºpostµÇÂ¼
+[2019-01-24 21:14:52,337] - [line:26] __console - INFO: inputdata> ²ÎÊý:{"username": "name", "password": "189978798"},Ô¤ÆÚ½á¹û:"name"
+[2019-01-24 21:14:54,637] - [line:26] __console - INFO: postÇëÇó³ö´í£¬³ö´íÔ­Òò:HTTPConnectionPool(host='127.0.01', port=8000): Max retries exceeded with url: /login (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000038A6C50>: Failed to establish a new connection: [Errno 11004] getaddrinfo failed',))
+[2019-01-24 21:15:29,020] - [line:26] __console - INFO: ------Ö´ÐÐÓÃÀý£ºpostµÇÂ¼
+[2019-01-24 21:15:29,020] - [line:26] __console - INFO: inputdata> ²ÎÊý:{"username": "name", "password": "189978798"},Ô¤ÆÚ½á¹û:"name"
+[2019-01-24 21:15:31,303] - [line:26] __console - INFO: postÇëÇó³ö´í£¬³ö´íÔ­Òò:HTTPConnectionPool(host='127.0.01', port=8000): Max retries exceeded with url: /login (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000038A6CC0>: Failed to establish a new connection: [Errno 11004] getaddrinfo failed',))
+[2019-01-24 21:16:09,440] - [line:26] __console - INFO: ------Ö´ÐÐÓÃÀý£º»ñÈ¡Ò³Ãæ
+[2019-01-24 21:16:09,440] - [line:26] __console - INFO: inputdata> ²ÎÊý:{"callback": "searchKeys", "_": "1547087518961"},Ô¤ÆÚ½á¹û:"result":0
+[2019-01-24 21:16:09,632] - [line:26] __console - INFO: ------ÓÃÀý²âÊÔÍ¨¹ý,Êµ¼Ê½á¹û£ºsearchKeys({"result":0,"data":[{"name":"JavaÈëÃÅ","links":"\/\/class.imooc.com\/sc\/18"},{"name":"Ç°¶ËÈëÃÅ","links":"\/\/class.imooc.com\/sc\/20"}],"msg":"³É¹¦"})
+[2019-01-24 21:16:09,632] - [line:26] __console - INFO: ------Ö´ÐÐÓÃÀý£ºÄ½¿ÎÍøÓÃ»§µÇÂ¼--²ÎÊýÕýÈ·
+[2019-01-24 21:16:09,632] - [line:26] __console - INFO: inputdata> ²ÎÊý:{"username": "13316588360", "password": "sly1992.", "verify": "", "referer": "https://m.imooc.com"},Ô¤ÆÚ½á¹û:"status":10001
+[2019-01-24 21:16:10,038] - [line:26] __console - INFO: ------ÓÃÀý²âÊÔÍ¨¹ý,Êµ¼Ê½á¹û£º{"status":10001,"msg":"³É¹¦","data":{"userInfo":{"uid":"3001774"},"url":["http:\/\/www.imooc.com\/user\/ssologin?token=apAIm1TY4jnyRy-l8Vtj3BghBZF95XKkDGzkOSI7fpha5cyBH-AfWtgjhUfDikFx0Gl7DiytepFW6f5VRlLvAW5IuN1gSCM1k7b3chsOAHWHC3HMEN-dz-lxFzrl2cm1jEIRmrnsV8NM-Z4VeT_w-UhOYgC7O14wSE8tBNOULLv_M5AYeOmRM2jiOqT5SjfetDjVjUIjrjo4ZLKnDwuPZSyd_Px-zKwfu5zQxK4LvgDA0y5IZJcydTXW4ZrPpkLEJ4J_SKFkYVH0CIlmNKp0FZiqmP6wU8We-0KDgPQhBSr2Ct","http:\/\/coding.imooc.com\/user\/ssologin?token=V0sl6V0_h6pKC9ksl7MsFYKeDDDo3W-Cd-p-tZERF_z6ksC8DWhQFnrv2_iuHKH_l04ep57UTr1OMmsUFwaaYCRkOqhH3uxbN07V5cMaknPCw-79ht_ORlUSLTL6dRHcZlosM7G5vP_2AZxlAYYX7xjDQmHBC8T_rBHeY8PkK8S0ajpptp3vZG7QQahjzwhxZOrXeBptvTAZ0Ud8JqKs6pjI4cGw5nw-OfKaJ2b1lr5d1YmBTN-OFGekqePE4f-qCpGeyI3Oqig_6IJSYO8Eud5eXFOaAird-sCnRpT"]}}
+[2019-01-24 21:16:10,038] - [line:26] __console - INFO: ËùÓÐÓÃÀý²âÊÔÍê³É£¬³É¹¦Êý:2,Ê§°ÜÊý£º0

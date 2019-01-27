@@ -1,0 +1,51 @@
+# coding:utf-8
+import requests
+import json
+from common.read_json import ReadJson
+from common.base import Base
+
+
+class OperationHeader:
+    def __init__(self, response):
+        self.response = json.loads(response)
+
+    def get_response_url(self):
+        '''
+        获取登录返回的token的url
+        '''
+        url = self.response['data']['url'][0]
+        return url
+
+    def get_cookie(self):
+        '''
+        获取cookie的jar文件
+        '''
+        url = self.get_response_url() + "&callback=jQuery21008240514814031887_1508666806688&_=1508666806689"
+        cookie = requests.get(url).cookies
+        return cookie
+
+    def write_cookie(self):
+        cookie = requests.utils.dict_from_cookiejar(self.get_cookie())
+        op_json = ReadJson()
+        op_json.write_jsondata(cookie)
+
+
+if __name__ == '__main__':
+    url = "http://m.imooc.com/passport/user/login?username=13316588360&password=sly1992.&verify&referer=https://m.imooc.com"
+    # data = {
+    #     "username": "133165588360",
+    #     "password": "sly1992.",
+    #     "verify": "",
+    #     "referer": "https://m.imooc.com"
+    # }
+    # r=Base()
+    # re2 = r.run_main(url, "POST")
+    # print ("type%s" % type(re2))
+    # print re2
+    res = json.dumps(requests.post(url).json())
+    print (res)
+    op_header = OperationHeader(res)
+    op_header.write_cookie()
+    read=ReadJson()
+    r=read.read_cookie('apsid')
+    print (r)

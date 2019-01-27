@@ -56,7 +56,7 @@ class ReadExcel():
             num = 0
             cols_data = self.get_col_valuse()
             for col_data in cols_data:
-                print col_data
+                print (col_data)
                 if case_id in col_data:
                     return num
                 else:
@@ -70,13 +70,13 @@ class ReadExcel():
 
 if __name__=="__main__":
     read1 = ReadExcel()
-    print read1.get_cell_value(2,3)
+    print (read1.get_cell_value(2,3))
     # read1.write_value(2,10,"fail")
     # row=read1.get_row_values(1)
     # print row
     # col=read1.get_col_valuse(0)
     # print col
     row_num=read1.get_row_num("test_001")
-    print row_num
+    print (row_num)
     row_data=read1.get_row_data("test_001")
-    print row_data
+    print (row_data)

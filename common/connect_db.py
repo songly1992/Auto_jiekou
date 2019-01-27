@@ -1,14 +1,14 @@
 #coding:utf-8
 import MySQLdb.cursors
 import json
-class OperationMysql:
+class OperationMysql():
     def __init__(self):
         self.conn = MySQLdb.connect(
             host='localhost',
             port=3306,
             user='root',
             passwd='123456',
-            db='le_study',
+            db='mysql',
             charset='utf8',
             cursorclass=MySQLdb.cursors.DictCursor
             )
@@ -23,5 +23,5 @@ class OperationMysql:
 
 if __name__ == '__main__':
     op_mysql = OperationMysql()
-    res = op_mysql.search_one("select * from web_user where Name='ailiailan'")
-    print res
+    res = op_mysql.search_one("select * from user where User='root'")
+    print (res)
