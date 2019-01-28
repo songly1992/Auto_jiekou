@@ -31,12 +31,9 @@ class OperationHeader:
 
 
 if __name__ == '__main__':
-    url = "http://m.imooc.com/passport/user/login?username=13316588360&password=sly1992.&verify&referer=https://m.imooc.com"
+    url = "http://m.imooc.com"
     # data = {
-    #     "username": "133165588360",
-    #     "password": "sly1992.",
-    #     "verify": "",
-    #     "referer": "https://m.imooc.com"
+    #
     # }
     # r=Base()
     # re2 = r.run_main(url, "POST")
